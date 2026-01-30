@@ -1,0 +1,1 @@
+{"target":"DBD::Oracle","dist":"DBD-Oracle-1.90","version":"1.90","pathname":"Z/ZA/ZARQUON/DBD-Oracle-1.90.tar.gz","name":"DBD::Oracle","provides":{"DBD::Oracle::GetInfo":{"version":"1.90","file":"lib/DBD/Oracle/GetInfo.pm"},"DBD::Oracle":{"file":"lib/DBD/Oracle.pm","version":"1.90"},"DBD::Oracle::Object":{"version":"1.90","file":"lib/DBD/Oracle/Object.pm"}}}
